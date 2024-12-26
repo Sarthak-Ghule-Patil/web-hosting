@@ -1,0 +1,50 @@
+#body{
+    background-color: azure;
+}
+
+#ha{
+     font-size: 1.8cm;
+     color: white;
+     text-align: center;
+     position: relative;
+     top: 0.5cm;
+     
+
+}
+
+#hb{
+    font-size: 0.6cm;
+}
+a{
+    text-decoration: none;
+}
+
+
+
+#da{
+    height: 5cm;
+    width: 40cm;
+    background-color: #005fa1;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    top: 0.999cm;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    box-shadow: #000000;
+    color: white;
+}
+
+#ta{
+    background-color: #0a4671;
+    font-size: 1cm;
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 0.8%;
+}
+
+#pa{
+    font-size: 0.5cm;
+}
